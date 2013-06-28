@@ -1,0 +1,21 @@
+DFS
+{
+    simple digraph problems:
+        - reachability
+        - path finding
+        - topological sort
+        - directed cycle detection
+    
+    difficult digraph problems:
+        - 2-satisfiability
+        - directed Euler path
+        - stringly-connected components
+
+}
+
+BFS
+{
+    simple digraph problems:
+        - shortest paths (fewest number of edges)
+
+}

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undirected Graph", "Graph Implementation\Undirected Graph.csproj", "{AD8C9234-3F63-433F-B111-0ED3A71087F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directed Graph", "Directed Graph\Directed Graph.csproj", "{4CEF6E84-C4E2-430E-8798-9065E12A4E76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{14069E51-04A2-46C6-85AB-9EAAFF1DE6D9}"
+	ProjectSection(SolutionItems) = preProject
+		Graph Problems.txt = Graph Problems.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UndirectionalTestSearch", "UndirectionalTestSearch\UndirectionalTestSearch.csproj", "{93E8FA17-1670-4704-96A6-D8A892614828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Spanning Trees", "Minimum Spanning Trees\Minimum Spanning Trees.csproj", "{4F509D89-887D-45A6-8C80-71F2E94EC0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Paths", "Shortest Paths\Shortest Paths.csproj", "{75F76405-2AC6-4BE3-A19D-F090B0FE6BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8C9234-3F63-433F-B111-0ED3A71087F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8C9234-3F63-433F-B111-0ED3A71087F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8C9234-3F63-433F-B111-0ED3A71087F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8C9234-3F63-433F-B111-0ED3A71087F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEF6E84-C4E2-430E-8798-9065E12A4E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEF6E84-C4E2-430E-8798-9065E12A4E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEF6E84-C4E2-430E-8798-9065E12A4E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEF6E84-C4E2-430E-8798-9065E12A4E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E8FA17-1670-4704-96A6-D8A892614828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E8FA17-1670-4704-96A6-D8A892614828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E8FA17-1670-4704-96A6-D8A892614828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E8FA17-1670-4704-96A6-D8A892614828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F509D89-887D-45A6-8C80-71F2E94EC0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F509D89-887D-45A6-8C80-71F2E94EC0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F509D89-887D-45A6-8C80-71F2E94EC0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F509D89-887D-45A6-8C80-71F2E94EC0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F76405-2AC6-4BE3-A19D-F090B0FE6BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F76405-2AC6-4BE3-A19D-F090B0FE6BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F76405-2AC6-4BE3-A19D-F090B0FE6BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F76405-2AC6-4BE3-A19D-F090B0FE6BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
